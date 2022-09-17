@@ -1,7 +1,5 @@
 # connection-lab-02
 
-make sure to add some documentation to README.md file - it can include your idea and intentions behind the projects, questions, challenges etc.
-
 The project i want to make is a calendar website. 
 Intentions:
 My idea is user can customize their own calendar which allow users to add reminder, videos, images and etc. The website give users a space of creation and 
